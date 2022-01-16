@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7",
+    "supertest": "^6.2.1"
+  },
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+  }
+}
